@@ -25,7 +25,7 @@ SECRET_KEY = '39nbpw52kmeo_wvf_46k7dp0isf_lv737ikloesrbg!qxbs_lv'
 DEBUG = False
 CORS_ORIGIN_ALLOW_ALL = True
 ALLOWED_HOSTS = [
-    '35.228.238.202',
+    'leadmanager19632.herokuapp.com',
 ]
 
 INSTALLED_APPS = [
